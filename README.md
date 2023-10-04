@@ -1,5 +1,6 @@
-# Voter Model
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1OpTPdcH5-PCjhSqUGeELUP9jKdu685O7?usp=sharing](https://colab.research.google.com/drive/1-BustwkvqMEnTcp1ZHpFxZBG_-4lEcqT?usp=sharing))
+
+# Voter Model
 Il "Voter Model" è una rappresentazione dell'evoluzione delle opinioni in una popolazione. Il modello consiste di N agenti (o votanti) che fungono da vertici di un grafo semplice non orientato. Ogni agente può assumere uno di due stati (od opinioni). Il sistema evolve in tempo discreto, seguendo queste semplici regole: ad ogni time-step
 
 * un individuo viene selezionato casualmente in modo uniforme (agente i);
